@@ -1,9 +1,9 @@
 # TruthStones
 Add zen to your internet searches / history with Applescript
 
-Elder Brother Yeap's Truth Stones 0.7b
+Elder Brother Yeap's Truth Stones 0.9b
 --------------------------------------
-This small Applescript helps put context into your internet searches. It also organises the searches you make, into web locations you can re-access by making selections of Chinese ideogram stones. Hold down the Command key while select-clicking multiple stones which will trigger Spotlight to context search the Archives folder.
+This small Applescript puts unexpected but potentially useful context into your internet searches via organising pervious searches into web locations, which you can tap on the fly, by arranging Chinese ideogram stone icons in a folder “Zen garden”.
 
 The reason the stones work is because they [attempt to] tell the story of life on Earth and the cosmic forces that guide it. So, unless you're really sure, don't alter the [1]woman [2]divert [10]exchange [15]eat initial configuration preset on the grid. Just add, move or remove stones around them, one per marker..
 
